@@ -1,15 +1,14 @@
-status:
-    valid: 200
-    rmq_down: 201
-    rmq_diskfull: 202
-    resubmitted: 205
-    bad_request: 400
-    unauthorized: 401
-    invalid_producerid: 403
-    access_denied: 426
-    invalid_eventtype: 452
-    error: 500
-    not_configured: 501
-    contract_notdefined: 502
-    payload_does_not_match: 503
-    event_not_configured: 506
+valid: 200
+rmq_down: 201
+rmq_diskfull: 202
+resubmitted: 205
+bad_request: 400
+unauthorized: 401
+invalid_producerid: 403
+access_denied: 426
+invalid_eventtype: 452
+error: 500
+not_configured: 501
+contract_notdefined: 502
+payload_does_not_match: 503
+event_not_configured: 506
