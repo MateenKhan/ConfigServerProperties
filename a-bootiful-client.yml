@@ -16,3 +16,6 @@ DEEP_CUSTOM_ERROR:
     PAYLOAD_DOES_NOT_MATCH: 503    
     EVENT_NOT_CONFIGURED: 506
     NIRMA: 777
+  MESSAGE:
+    VALID: The operation performed is success
+    RMQ_DOWN: Rabbit MQ server is down
